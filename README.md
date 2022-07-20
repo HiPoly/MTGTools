@@ -1,2 +1,3 @@
 # MTGDice
-Dice rolling tool for Magic: the Gathering
+Dice rolling tools for Magic: the Gathering, including:
+- Delina Dice
