@@ -1,3 +1,4 @@
 # MTGTools
 Dice rolling tools for Magic: the Gathering. Now Including:
-- Everything you need for Delina, Wild Mage
+- Delina Dice, everything you need to roll with a Wild Mage
+- (WIP) GiveMeCommander, a tool for finding new Commanders
